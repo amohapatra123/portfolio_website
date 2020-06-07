@@ -67,6 +67,7 @@ export default class Main extends Component {
                 <i class="fa fa-linkedin" />
               </a>
             </span>
+            <br /> <span>&copy;2020 Anshuman Mohapatra</span>
           </div>
           <div className="col-xs-12 col-md-6">
             <Button
