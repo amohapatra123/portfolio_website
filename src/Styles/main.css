@@ -8,7 +8,7 @@ body {
 }
 .App {
   height: 100vh;
-  background: linear-gradient(45deg, rgb(123, 223, 23) 48%, black 50%);
+  background: linear-gradient(45deg, #2a9d8f 48%, #264653 50%);
   background-position: fixed;
   overflow: auto;
 }
