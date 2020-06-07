@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Tenali+Ramakrishna&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background: black;
+}
+.App {
+  height: 100vh;
+  /* background-color: black; */
+  background: linear-gradient(45deg, rgb(123, 223, 23) 48%, black 50%);
+  background-position: fixed;
+  overflow: auto;
+}
+#row {
+  height: 100vh;
+}
+#photo {
+  width: 53%;
+  justify-content: center;
+  margin-top: 10%;
+  border-radius: 3%;
+}
+h1 {
+  color: white;
+  font-family: "Tenali Ramakrishna", sans-serif;
+}
+h5 {
+  color: white;
+  font-family: "Tenali Ramakrishna", sans-serif;
+}
+span a {
+  color: white;
+}
