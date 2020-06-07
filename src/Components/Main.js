@@ -98,7 +98,7 @@ export default class Main extends Component {
             >
               PROJECTS
             </Button>
-            <a href="../Assets/resume.pdf" download>
+            <a href="https://docs.google.com/document/d/1JpllA4ad-WIhZwl28ZF-I1riiPoXSpRqQrIXke2oVjA/edit?usp=sharing">
               <Button
                 variant="flat"
                 color="light"
@@ -108,6 +108,7 @@ export default class Main extends Component {
                 RESUME
               </Button>
             </a>
+
             <div className="mt-5">
               {this.state.about ? <About /> : null}
               {this.state.skills ? <Skills /> : null}
