@@ -98,7 +98,7 @@ export default class Main extends Component {
             >
               PROJECTS
             </Button>
-            <a href="../Assets/resume.pdf">
+            <a href="../Assets/resume.pdf" download>
               <Button
                 variant="flat"
                 color="light"
