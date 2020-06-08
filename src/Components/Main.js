@@ -110,7 +110,7 @@ export default class Main extends Component {
               </Button>
             </a>
 
-            <div className="mt-5">
+            <div className="mt-5" id="render">
               {this.state.about ? <About /> : null}
               {this.state.skills ? <Skills /> : null}
               {this.state.projects ? <Projects /> : null}

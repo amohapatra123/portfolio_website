@@ -12,6 +12,9 @@ body {
   background-position: fixed;
   overflow: auto;
 }
+#render {
+  margin: 1%;
+}
 #row {
   height: 100vh;
 }
